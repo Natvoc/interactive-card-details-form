@@ -1,0 +1,24 @@
+body{
+   margin: 0;
+   padding: 0;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content-card{
+ 
+}
+.bg-color{
+    background-image: url(../images/bg-main-mobile.png);
+    background-position: center;
+    background-size: cover;
+    }
+
+
+
+/*Responsive Desktop*/
+@media only screen and (min-width: 375px){
+
+}
